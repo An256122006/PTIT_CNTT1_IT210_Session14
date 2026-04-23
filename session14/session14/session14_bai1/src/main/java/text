@@ -1,0 +1,2 @@
+do thực hiện hành vi thay đổi trạng thái của đơn hàng trước khi kiểm tra trạng thái kết nối
+và cũng như ko sử dụng trấntion rollbachs để quay lại khi gặp lỗi
